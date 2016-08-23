@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.6834015548229218
 name: ArtistJLEE.com
+navigation:
+  - name: Sculpture
+    url: 'http://www.jungholeeart.com/#!sculpture/c23h7'
+    type: external
 title: '"Art is of the future"'
 description: '-Jean Dubuffet'
