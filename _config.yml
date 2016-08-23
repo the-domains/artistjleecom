@@ -1,4 +1,3 @@
-layout_spectrum: 0.6834015548229218
 typography_spectrum: 0.7110824456904083
 color:
   brandStrength: 0.8671829595696181
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.6834015548229218
 name: ArtistJLEE.com
+title: '"Art is of the future"'
