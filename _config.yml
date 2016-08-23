@@ -11,6 +11,8 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.6834015548229218
+analytics:
+  google: jhlsis
 name: ArtistJLEE.com
 navigation:
   - name: Sculpture
